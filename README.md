@@ -1,1 +1,1 @@
-# star-citizen-knowledge-base
+# Star citizen knowledge base
